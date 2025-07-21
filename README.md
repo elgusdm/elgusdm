@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elgusdm&label=Profile%20views&color=0e75b6&style=flat" alt="elgusdm" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elgusdm" alt="elgusdm" /></a> </p>
-
 - 🔭 I’m currently student on **System's engineering**
 
 - 🌱 I’m currently learning **django, flask and React**
@@ -32,4 +30,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elgusdm&show_icons=true&locale=en" alt="elgusdm" /></p>
 
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elgusdm" alt="elgusdm" /></a> </p>
