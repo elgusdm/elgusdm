@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **django, flask and React**
 
-- 👯 I’m looking to collaborate on [STEM Fesc](https://stemfesc.com.mx/)
+- 👯 I’m looking to collaborating in [STEM Fesc](https://stemfesc.com.mx/)
 
-- 📝 I regularly write articles on [https://github.com/elgusdm](https://github.com/elgusdm)
+- 📝 I regularly write articles at [https://github.com/elgusdm](https://github.com/elgusdm)
 
 - 📫 How to reach me **gustavomunguiafr@gmail.com**
 
-- 📄 Know about my experiences [Im Information Technology Consultant Information Technology Consultant on Intelexion](Im Information Technology Consultant Information Technology Consultant on Intelexion)
+- 📄 Know about my experiences [Information Technology Consultant Information Technology Consultant on Intelexion]
 
 - ⚡ Fun fact **I love 🐈 😺**
 
