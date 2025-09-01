@@ -13,7 +13,7 @@
 
 - 📫 How to contact me **gustavomunguiafr@gmail.com**
 
-- 📄 More about my experiences and skills [Information Technology Consultant Information Technology Consultant on Intelexion]
+- 📄 More about my experience and skills [Information Technology Consultant Information Technology Consultant on Intelexion]
 
 - ⚡ Fun fact **I love 🐈 😺**
 
