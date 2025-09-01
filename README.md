@@ -3,17 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elgusdm&label=Profile%20views&color=0e75b6&style=flat" alt="elgusdm" /> </p>
 
-- 🔭 I’m currently student on **System's engineering**
+- 🔭 Currently, I’m student on **Systems engineering**
 
-- 🌱 I’m currently learning **django, flask and React**
+- 🌱 I’m learning **django, flask and React**
 
-- 👯 I’m looking to collaborating in [STEM Fesc](https://stemfesc.com.mx/)
+- 👯 I’m looking to collaborate with [STEM Fesc](https://stemfesc.com.mx/)
 
 - 📝 I regularly write articles at [https://github.com/elgusdm](https://github.com/elgusdm)
 
-- 📫 How to reach me **gustavomunguiafr@gmail.com**
+- 📫 How to contact me **gustavomunguiafr@gmail.com**
 
-- 📄 Know about my experiences [Information Technology Consultant Information Technology Consultant on Intelexion]
+- 📄 More about my experiences and skills [Information Technology Consultant Information Technology Consultant on Intelexion]
 
 - ⚡ Fun fact **I love 🐈 😺**
 
