@@ -7,7 +7,7 @@
 
 - 🌱 I’m learning **django, flask and React**
 
-- 👯 I’m looking to collaborate with [STEM Fesc](https://stemfesc.com.mx/)
+- 👯 I’m looking to collaborate with [STEM Fesc](https://www.stemfesc.com.mx/)
 
 - 📝 I regularly write articles at [https://github.com/elgusdm](https://github.com/elgusdm)
 
