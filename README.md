@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate with [STEM Fesc](https://www.stemfesc.com.mx/)
 
-- 📝 I regularly write articles at [https://github.com/elgusdm](https://github.com/elgusdm)
+- 📝 I regularly write articles at [Linkedln](https://www.linkedin.com/in/gustavo-mungu%C3%ADa-fragoso-dev2003/)
 
 - 📫 How to contact me **gustavomunguiafr@gmail.com**
 
